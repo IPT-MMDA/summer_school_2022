@@ -1,0 +1,8 @@
+NAME 		Land Use 	CLASS
+Artificial 	A00 		1
+Cropland 	B00 		2
+Forest 	C00 		10
+Grassland 	E00 		11
+Bareland 	F00 		12
+Water 	G00 		13
+Wetland 	H00 		14 
